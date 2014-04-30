@@ -6,7 +6,7 @@ This model represents measures as first class objects, that is, an object that e
 Just download a fresh image of Pharo (http://www.pharo-project.org) and in a workspace do-it this:
 
     Gofer it
-        smalltalkhubUser: 'maxi' project: 'Aconcagua';
+        smalltalkhubUser: 'Pharo' project: 'MetaRepoForPharo30';
         package: 'ConfigurationOfAconcagua';
     load.
     (Smalltalk at: #ConfigurationOfAconcagua) load.
