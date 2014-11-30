@@ -1,4 +1,0 @@
-accessing
-numberOfMeasures
-	
-	^measures size

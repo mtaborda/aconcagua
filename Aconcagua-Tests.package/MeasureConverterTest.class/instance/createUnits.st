@@ -1,4 +1,0 @@
-initialization
-createUnits
-
-	^UnitsTestResource current

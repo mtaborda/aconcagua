@@ -1,4 +1,0 @@
-accessing
-nothingAmount
-
-	self subclassResponsibility

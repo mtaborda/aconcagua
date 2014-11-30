@@ -1,4 +1,0 @@
-accessing
-function
-
-	self subclassResponsibility

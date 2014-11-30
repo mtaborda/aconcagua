@@ -1,4 +1,0 @@
-accessing
-amount
-	
-	self subclassResponsibility

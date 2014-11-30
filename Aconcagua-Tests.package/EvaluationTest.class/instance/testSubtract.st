@@ -1,4 +1,0 @@
-testing
-testSubtract
-
-	self assertAllTestShouldPassFor: #-

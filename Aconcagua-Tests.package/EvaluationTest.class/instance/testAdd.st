@@ -1,4 +1,0 @@
-testing
-testAdd
-
-	self assertAllTestShouldPassFor: #+

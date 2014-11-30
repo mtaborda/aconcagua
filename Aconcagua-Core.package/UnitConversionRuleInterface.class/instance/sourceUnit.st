@@ -1,4 +1,0 @@
-accessing
-sourceUnit
-
-	self subclassResponsibility

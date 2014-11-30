@@ -1,4 +1,0 @@
-graph management
-createUnitConversionRuleToEdgeAdapterFor: aUnitConvertionRule
-
-	^UnitConversionRuleToEdgeAdapter for: aUnitConvertionRule
