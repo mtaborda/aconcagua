@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"invalidEdge:edges:nodes:" : "",
+		"signalInvalidEdge:edges:nodes:" : "" },
+	"instance" : {
+		"description" : "",
+		"edges" : "",
+		"initializeInvalidEdge:edges:nodes:" : "",
+		"invalidEdge" : "",
+		"nodes" : "" } }

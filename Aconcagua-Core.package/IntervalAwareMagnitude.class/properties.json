@@ -1,0 +1,14 @@
+{
+	"category" : "Aconcagua-Core-ArithmeticModel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "IntervalAwareMagnitude",
+	"pools" : [
+		 ],
+	"super" : "Magnitude",
+	"type" : "normal" }

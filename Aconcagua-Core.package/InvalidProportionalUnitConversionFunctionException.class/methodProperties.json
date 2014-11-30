@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"signalSourceMeasure:equivalentMeasure:" : "",
+		"sourceMeasure:equivalentMeasure:" : "" },
+	"instance" : {
+		"description" : "",
+		"equivalentMeasure" : "",
+		"initializeSourceMeasure:equivalentMeasure:" : "",
+		"sourceMeasure" : "" } }

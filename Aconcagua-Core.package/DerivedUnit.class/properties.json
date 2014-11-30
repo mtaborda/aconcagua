@@ -1,0 +1,14 @@
+{
+	"category" : "Aconcagua-Core-MeasureModel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DerivedUnit",
+	"pools" : [
+		 ],
+	"super" : "SimpleUnit",
+	"type" : "normal" }

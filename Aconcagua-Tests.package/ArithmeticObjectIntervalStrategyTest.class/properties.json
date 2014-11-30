@@ -1,0 +1,14 @@
+{
+	"category" : "Aconcagua-Tests-ArithmeticModel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ArithmeticObjectIntervalStrategyTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

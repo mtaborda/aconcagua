@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"signalWithSourceUnit:targetUnit:" : "",
+		"sourceUnit:targetUnit:" : "" },
+	"instance" : {
+		"description" : "",
+		"initializeWith:targetUnit:" : "",
+		"sourceUnit" : "",
+		"targetUnit" : "" } }

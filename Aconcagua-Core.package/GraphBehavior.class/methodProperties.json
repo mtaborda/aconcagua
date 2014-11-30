@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"edges" : "",
+		"edgesConvergingTo:" : "",
+		"edgesStartingOn:" : "",
+		"includesNode:" : "",
+		"isAcyclic" : "",
+		"nodes" : "",
+		"nodesAdjacentTo:" : "",
+		"nodesWithoutConvergingEdges" : "",
+		"nodesWithoutStartingEdges" : "",
+		"removeNode:" : "",
+		"removeNode:ifAbsent:" : "",
+		"removeNodes:" : "" } }

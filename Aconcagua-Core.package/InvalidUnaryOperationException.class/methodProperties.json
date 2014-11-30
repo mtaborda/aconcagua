@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"operationName:operand:" : "",
+		"signalOperationName:operand:" : "" },
+	"instance" : {
+		"description" : "",
+		"initializeOperationName:operand:" : "",
+		"operand" : "",
+		"operationName" : "" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "Aconcagua-Core-GraphModel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"edges",
+		"acyclic",
+		"nodes" ],
+	"name" : "Graph",
+	"pools" : [
+		 ],
+	"super" : "GraphBehavior",
+	"type" : "normal" }

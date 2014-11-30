@@ -1,0 +1,16 @@
+{
+	"category" : "Aconcagua-Tests-MeasureModel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"meter",
+		"second",
+		"meterBySecond" ],
+	"name" : "MultipliedUnitTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Aconcagua-Tests-MeasureModel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"units",
+		"moneyConverter" ],
+	"name" : "MeasureConverterTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

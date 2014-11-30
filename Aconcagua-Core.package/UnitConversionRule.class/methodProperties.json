@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"from:to:use:" : "" },
+	"instance" : {
+		"=" : "",
+		"function" : "",
+		"hash" : "",
+		"initializeFrom:to:using:" : "",
+		"printOn:" : "",
+		"sourceUnit" : "",
+		"targetUnit" : "",
+		"value:" : "" } }

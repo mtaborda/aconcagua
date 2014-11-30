@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"baseUnit" : "",
+		"convertAmountToBaseUnit:" : "",
+		"convertFromBaseUnit:" : "",
+		"convertToBaseUnit:" : "",
+		"hash" : "",
+		"nothingAmount" : "",
+		"with:" : "" } }

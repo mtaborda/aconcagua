@@ -1,0 +1,14 @@
+{
+	"category" : "Aconcagua-Core-MeasureModel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"measures" ],
+	"name" : "MeasureBag",
+	"pools" : [
+		 ],
+	"super" : "MeasureBehavior",
+	"type" : "normal" }
