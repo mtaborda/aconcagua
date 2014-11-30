@@ -1,0 +1,14 @@
+{
+	"category" : "Aconcagua-Core-ArithmeticModel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ArithmeticObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

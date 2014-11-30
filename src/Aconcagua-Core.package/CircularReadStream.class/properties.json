@@ -1,0 +1,18 @@
+{
+	"category" : "Aconcagua-Core-MeasureModel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"collection",
+		"position",
+		"unit",
+		"firstIndex",
+		"lastIndex" ],
+	"name" : "CircularReadStream",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

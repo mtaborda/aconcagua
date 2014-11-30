@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"from:to:" : "" },
+	"instance" : {
+		"=" : "",
+		"convergesTo:" : "",
+		"convergesToSelf" : "",
+		"goesFrom:to:" : "",
+		"hash" : "",
+		"initializeWithFrom:to:" : "",
+		"isIncidentTo:" : "",
+		"printOn:" : "",
+		"source" : "",
+		"startsOn:" : "",
+		"target" : "" } }

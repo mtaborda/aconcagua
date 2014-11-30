@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"operationName:leftOperand:rightOperand:" : "",
+		"signalOperationName:leftOperand:rightOperand:" : "" },
+	"instance" : {
+		"description" : "",
+		"initializeOperationName:leftOperand:rightOperand:" : "",
+		"leftOperand" : "",
+		"operationName" : "",
+		"rightOperand" : "" } }

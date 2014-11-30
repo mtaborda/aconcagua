@@ -1,0 +1,15 @@
+{
+	"category" : "Aconcagua-Core-MeasureModel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"graph",
+		"unitConversionRules" ],
+	"name" : "ConversionTable",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

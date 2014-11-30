@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAccessing" : "",
+		"testConverging" : "",
+		"testEqual" : "",
+		"testGoing" : "",
+		"testHash" : "",
+		"testIsIncidentTo" : "",
+		"testPrintString" : "",
+		"testStarting" : "" } }

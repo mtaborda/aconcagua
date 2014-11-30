@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"nameForOne:nameForMany:" : "",
+		"nameForOne:nameForMany:sign:" : "",
+		"named:" : "",
+		"named:sign:" : "" },
+	"instance" : {
+		"baseUnit" : "",
+		"convertAmountToBaseUnit:" : "",
+		"convertFromBaseUnit:" : "",
+		"convertToBaseUnit:" : "",
+		"initializeNameFomOne:nameForMany:sign:" : "",
+		"nameForMany" : "",
+		"nameForOne" : "",
+		"nothingAmount" : "",
+		"sign" : "" } }

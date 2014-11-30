@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"convergesTo:" : "",
+		"convergesToSelf" : "",
+		"goesFrom:to:" : "",
+		"source" : "",
+		"startsOn:" : "",
+		"target" : "" } }

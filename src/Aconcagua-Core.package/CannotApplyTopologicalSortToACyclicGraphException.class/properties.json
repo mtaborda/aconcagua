@@ -1,0 +1,14 @@
+{
+	"category" : "Aconcagua-Core-GraphModel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"graph" ],
+	"name" : "CannotApplyTopologicalSortToACyclicGraphException",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

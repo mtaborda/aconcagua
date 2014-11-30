@@ -1,0 +1,14 @@
+{
+	"category" : "Aconcagua-Core-GraphModel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "EdgeInterface",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

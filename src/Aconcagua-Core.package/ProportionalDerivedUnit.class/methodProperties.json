@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"baseUnit:conversionFactor:nameForOne:nameForMany:sign:" : "",
+		"baseUnit:conversionFactor:named:" : "",
+		"baseUnit:conversionFactor:named:sign:" : "" },
+	"instance" : {
+		"baseUnit" : "",
+		"conversionFactor" : "",
+		"convertAmountFromBaseUnit:" : "",
+		"convertAmountToBaseUnit:" : "",
+		"initializeBaseUnit:conversionFactor:nameForOne:nameForMany:sign:" : "",
+		"nameForMany" : "",
+		"nameForOne" : "",
+		"sign" : "" } }

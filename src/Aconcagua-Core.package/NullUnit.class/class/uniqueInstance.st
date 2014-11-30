@@ -1,0 +1,4 @@
+initialization
+uniqueInstance
+
+	^uniqueInstance

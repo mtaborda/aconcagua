@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"divFrom:" : "",
+		"divideByUnit:" : "",
+		"divideDividedUnit:" : "",
+		"divideMultipliedUnit:" : "",
+		"divideNullUnit:" : "",
+		"divideSimpleUnit:" : "",
+		"multiplyByUnit:" : "",
+		"multiplyDividedUnit:" : "",
+		"multiplyMultipliedUnit:" : "",
+		"multiplySimpleUnit:" : "",
+		"with:" : "" } }
