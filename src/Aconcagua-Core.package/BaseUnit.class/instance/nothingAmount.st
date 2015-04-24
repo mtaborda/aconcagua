@@ -1,4 +1,0 @@
-accessing
-nothingAmount
-
-	^0

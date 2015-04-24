@@ -1,4 +1,0 @@
-accessing
-unitConversionRules
-
-	^unitConversionRules copy

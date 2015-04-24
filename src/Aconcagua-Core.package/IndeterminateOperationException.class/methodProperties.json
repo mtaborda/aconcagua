@@ -1,7 +1,0 @@
-{
-	"class" : {
-		"operation:leftOperand:rightOperand:" : "",
-		"signalOperation:leftOperand:rightOperand:" : "" },
-	"instance" : {
-		"description" : "",
-		"initializeOperation:leftOperand:rightOperand:" : "" } }

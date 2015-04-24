@@ -1,4 +1,0 @@
-accessing
-first
-
-	^collection first

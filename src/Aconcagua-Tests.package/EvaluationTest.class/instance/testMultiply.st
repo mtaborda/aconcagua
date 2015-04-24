@@ -1,4 +1,0 @@
-testing
-testMultiply
-
-	self assertAllTestShouldPassFor: #*

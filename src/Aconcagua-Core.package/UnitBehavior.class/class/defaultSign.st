@@ -1,4 +1,0 @@
-accessing
-defaultSign
-
-	^'NO SIGN'

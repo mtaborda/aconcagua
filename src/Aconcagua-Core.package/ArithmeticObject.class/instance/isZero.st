@@ -1,4 +1,0 @@
-testing
-isZero
-
-	^self isNothing
