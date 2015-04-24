@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"for:" : "" },
+	"instance" : {
+		"=" : "",
+		"convergesTo:" : "",
+		"convergesToSelf" : "",
+		"function" : "",
+		"goesFrom:to:" : "",
+		"hash" : "",
+		"initializeWith:" : "",
+		"printOn:" : "",
+		"source" : "",
+		"sourceUnit" : "",
+		"startsOn:" : "",
+		"target" : "",
+		"targetUnit" : "",
+		"unitConversionRule" : "",
+		"value:" : "" } }

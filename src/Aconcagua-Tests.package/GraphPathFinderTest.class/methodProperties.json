@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"initializeFinder" : "",
+		"initializeGraph" : "",
+		"setUp" : "",
+		"testGraphPathNotFoundException" : "",
+		"testInvalidPath" : "",
+		"testPathToFarAwayPlaces" : "",
+		"testPathToNeighborPlace" : "",
+		"testSamePlace" : "",
+		"testWithLoops" : "" } }

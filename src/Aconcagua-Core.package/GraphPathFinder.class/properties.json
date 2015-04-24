@@ -1,0 +1,15 @@
+{
+	"category" : "Aconcagua-Core-GraphModel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"graph",
+		"passedByEdges" ],
+	"name" : "GraphPathFinder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

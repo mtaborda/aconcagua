@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"signalSourceMeasure:targetUnit:" : "",
+		"sourceMeasure:targetUnit:" : "" },
+	"instance" : {
+		"description" : "",
+		"initializeWith:targetUnit:" : "",
+		"isResumable" : "",
+		"operationName" : "",
+		"sourceMeasure" : "",
+		"targetUnit" : "" } }

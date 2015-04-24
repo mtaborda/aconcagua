@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAmount" : "",
+		"testBaseUnit" : "",
+		"testConvertTo" : "",
+		"testConvertToBaseUnit" : "",
+		"testIsNothing" : "",
+		"testUnit" : "" } }

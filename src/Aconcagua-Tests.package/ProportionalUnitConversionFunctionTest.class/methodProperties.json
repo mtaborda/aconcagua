@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "",
+		"testAccessing" : "",
+		"testEqual" : "",
+		"testHash" : "",
+		"testInvalidValues" : "",
+		"testValidValues" : "" } }

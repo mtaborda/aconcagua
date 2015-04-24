@@ -1,0 +1,15 @@
+{
+	"category" : "Aconcagua-Tests-MeasureModel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"peso",
+		"dollar" ],
+	"name" : "UnitConversionRuleToEdgeAdapterTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

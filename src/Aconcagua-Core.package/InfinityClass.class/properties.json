@@ -1,0 +1,14 @@
+{
+	"category" : "Aconcagua-Core-MeasureModel",
+	"classinstvars" : [
+		"uniqueInstance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "InfinityClass",
+	"pools" : [
+		 ],
+	"super" : "ArithmeticObject",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "Aconcagua-Core-GraphModel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"invalidEdge",
+		"edges",
+		"nodes" ],
+	"name" : "EdgeEndpointNotIncludedInNodesException",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }
