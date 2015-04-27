@@ -14,6 +14,6 @@ testCreationImmutability
 	graph := Graph edges: edges.		
 
 	"Verify if modifying the entrance collection the graph follows immutable"
-	graph edges add: (Edge from: 4 to: 5).
+	edges add: (Edge from: 4 to: 5).
 	self assert: graph edges size = 5.
 	self deny: (graph edges includes: (Edge from: 4 to: 5))
