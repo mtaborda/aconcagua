@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"DevelopmentSupport" : "MaximilianoTaborda 5/28/2013 01:18",
+		"baseConfigurationClassIfAbsent:" : "MaximilianoTaborda 5/28/2013 01:18",
+		"ensureMetacello" : "MaximilianoTaborda 5/28/2013 01:18",
+		"ensureMetacelloBaseConfiguration" : "MaximilianoTaborda 5/28/2013 01:18",
+		"isMetacelloConfig" : "MaximilianoTaborda 5/28/2013 01:18",
+		"load" : "MaximilianoTaborda 5/28/2013 01:18",
+		"loadBleedingEdge" : "MaximilianoTaborda 5/28/2013 01:18",
+		"loadDevelopment" : "MaximilianoTaborda 5/28/2013 01:18",
+		"project" : "MaximilianoTaborda 5/28/2013 01:18",
+		"validate" : "MaximilianoTaborda 5/28/2013 01:18" },
+	"instance" : {
+		"baseline300:" : "MaximilianoTaborda 5/30/2013 00:24",
+		"baseline310:" : "MaximilianoTaborda 3/21/2014 20:30",
+		"baseline311:" : "MaximilianoTaborda 4/22/2015 22:50",
+		"baseline400:" : "MaximilianoTaborda 4/23/2015 23:05",
+		"bleedingEdge:" : "MaximilianoTaborda 5/29/2013 00:45",
+		"customProjectAttributes" : "MaximilianoTaborda 5/28/2013 01:18",
+		"development:" : "MaximilianoTaborda 5/28/2013 23:39",
+		"project" : "MaximilianoTaborda 5/28/2013 01:18",
+		"stable:" : "MaximilianoTaborda 4/22/2015 23:32",
+		"version300:" : "MaximilianoTaborda 2/19/2014 14:37",
+		"version310:" : "MaximilianoTaborda 4/30/2014 17:13",
+		"version311:" : "MaximilianoTaborda 4/22/2015 22:49",
+		"version400:" : "MaximilianoTaborda 4/22/2015 23:50" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfAconcagua",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfAconcagua",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
