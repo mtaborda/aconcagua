@@ -6,8 +6,8 @@ This model represents measures as first class objects, that is, an object that e
 Download a fresh image of Pharo (http://www.pharo.org) and in a workspace do-it this:
 
     Metacello new
-	    configuration: 'Aconcagua';
-	    githubUser: 'mtaborda' project: 'aconcagua' commitish: 'master' path: 'src';
-	    load
+        configuration: 'Aconcagua';
+        githubUser: 'mtaborda' project: 'aconcagua' commitish: 'master' path: 'src';
+        load
 
 Or just install stable version from the configuration browser.
