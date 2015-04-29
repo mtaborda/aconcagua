@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfAconcagua",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfAconcagua",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

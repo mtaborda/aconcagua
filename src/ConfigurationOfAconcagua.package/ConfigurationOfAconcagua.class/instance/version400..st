@@ -1,12 +1,12 @@
 versions
 version400: spec
-	<version: '4.0.0' imports: #('4.0.0-baseline')>
+	<version: '4.0.0'>
 	spec
 		for: #common
 		do: [ 
 			spec blessing: #release.
-			spec description: '4.0.0 final'.
+			spec description: '- Aconcagua final for 4.x images'.
 			spec author: 'MaximilianoTaborda'.
 			spec
-				package: 'Aconcagua-Core';
-				package: 'Aconcagua-Tests' ]
+				baseline: 'Aconcagua' with: [ spec repository: 'github://mtaborda/aconcagua:master/src' ];
+				import: 'Aconcagua' ]
