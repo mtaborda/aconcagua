@@ -7,7 +7,7 @@ Download a fresh image of Pharo (http://www.pharo.org) and in a workspace do-it 
 
     Metacello new
         configuration: 'Aconcagua';
-        githubUser: 'mtaborda' project: 'aconcagua' commitish: 'master' path: 'src';
+        githubUser: 'mtaborda' project: 'aconcagua' commitish: 'master' path: 'repository';
         load
 
 Or just install stable version from the configuration browser.
