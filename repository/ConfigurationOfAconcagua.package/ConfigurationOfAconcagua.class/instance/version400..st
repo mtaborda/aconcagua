@@ -8,5 +8,5 @@ version400: spec
 			spec description: '- Aconcagua final for 4.x images'.
 			spec author: 'MaximilianoTaborda'.
 			spec
-				baseline: 'Aconcagua' with: [ spec repository: 'github://mtaborda/aconcagua:master/src' ];
-				import: 'Aconcagua' ]
+				baseline: 'Aconcagua'
+				with: [ spec repository: 'github://mtaborda/aconcagua:master/repository' ]]
