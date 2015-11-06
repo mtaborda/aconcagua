@@ -1,0 +1,5 @@
+initialize - release
+initializeRepositories
+
+	repositories := Dictionary new.
+	repositories at: #pharo40 put: #'github://mtaborda/aconcagua:v4.1.0/repository'
