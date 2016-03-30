@@ -61,6 +61,7 @@
 		"testBaseUnit" : "",
 		"testBetweenAnd" : "HernanWilkinson 9/9/2009 17:00",
 		"testBetweenAndNotInclusive" : "HernanWilkinson 9/9/2009 17:02",
+		"testCloseTo" : "SeanDeNigris 5/27/2015 22:48",
 		"testCompareGreaterThan" : "",
 		"testConvertAmountToBaseUnit" : "",
 		"testConvertNothing" : "",
