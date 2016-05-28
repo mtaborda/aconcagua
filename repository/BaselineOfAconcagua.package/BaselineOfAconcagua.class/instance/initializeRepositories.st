@@ -3,4 +3,4 @@ initializeRepositories
 
 	repositories := Dictionary new.
 	repositories at: #pharo40 put: #'github://mtaborda/aconcagua:v4.1.0/repository'.
-	repositories at: #pharo50 put: #'github://mtaborda/aconcagua:development/repository'
+	repositories at: #pharo50 put: #'github://mtaborda/aconcagua:v5.0.0/repository'
