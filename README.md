@@ -5,9 +5,15 @@ This model represents measures as first class objects, that is, an object that e
 ##What I need to use Aconcagua?
 Download a fresh Pharo image (http://www.pharo.org) and in a workspace do-it this:
 
+    #In a 4.x image
     Metacello new
-        configuration: 'Aconcagua';
-        githubUser: 'mtaborda' project: 'aconcagua' commitish: 'master' path: 'repository';
+        baseline: 'Aconcagua';
+        githubUser: 'mtaborda' project: 'aconcagua' commitish: 'v.4.1.0' path: 'repository';
         load
 
-Or just install stable version from the configuration browser.
+    #In a 5.x image
+    Metacello new
+        baseline: 'Aconcagua';
+        githubUser: 'mtaborda' project: 'aconcagua' commitish: 'v5.0.0' path: 'repository';
+        load
+
