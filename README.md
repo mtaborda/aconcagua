@@ -14,6 +14,6 @@ Download a fresh Pharo image (http://www.pharo.org) and in a workspace do-it thi
     #In a 5.x image
     Metacello new
         baseline: 'Aconcagua';
-        githubUser: 'mtaborda' project: 'aconcagua' commitish: 'development' path: 'repository';
+        githubUser: 'mtaborda' project: 'aconcagua' commitish: 'v5.0.0' path: 'repository';
         load
 
