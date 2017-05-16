@@ -16,4 +16,7 @@ baseline: spec
 		spec repository: (repositories at: #pharo40) ].
 	
 	spec for: #'pharo5.x' do: [
-		spec repository: (repositories at: #pharo50) ]
+		spec repository: (repositories at: #pharo50) ].
+	
+	spec for: #'pharo6.x' do: [
+		spec repository: (repositories at: #pharo60) ]
