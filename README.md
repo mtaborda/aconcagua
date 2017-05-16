@@ -17,5 +17,5 @@ Download a fresh Pharo image (http://www.pharo.org) and in a workspace do-it thi
         githubUser: 'mtaborda' project: 'aconcagua' commitish: 'v5.0.0' path: 'repository';
         load
 
-#### For 6.x previous images
+#### For 6.x and next images
 go-to => https://github.com/ba-st/aconcagua
