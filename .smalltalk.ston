@@ -14,4 +14,4 @@ SmalltalkCISpec {
        #packages : [ 'Aconcagua-Tests*' ]
     }
   }
-} 
+}
