@@ -1,16 +1,15 @@
 {
-	"category" : "Aconcagua-Core-MeasureModel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "Error",
+	"category" : "Aconcagua-Core-MeasureModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"operation",
 		"leftOperand",
-		"rightOperand" ],
+		"rightOperand"
+	],
 	"name" : "IndeterminateOperationException",
-	"pools" : [
-		 ],
-	"super" : "Error",
-	"type" : "normal" }
+	"type" : "normal"
+}

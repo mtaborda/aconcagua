@@ -1,14 +1,13 @@
 {
-	"category" : "Aconcagua-Tests-MeasureModel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"units" ],
-	"name" : "MeasureTest",
-	"pools" : [
-		 ],
 	"super" : "TestCase",
-	"type" : "normal" }
+	"category" : "Aconcagua-Tests-MeasureModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"units"
+	],
+	"name" : "MeasureTest",
+	"type" : "normal"
+}

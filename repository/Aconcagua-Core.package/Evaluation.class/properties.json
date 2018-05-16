@@ -1,14 +1,11 @@
 {
-	"category" : "Aconcagua-Core-MeasureModel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "Evaluation",
-	"pools" : [
-		 ],
 	"super" : "ArithmeticObject",
-	"type" : "normal" }
+	"category" : "Aconcagua-Core-MeasureModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Evaluation",
+	"type" : "normal"
+}

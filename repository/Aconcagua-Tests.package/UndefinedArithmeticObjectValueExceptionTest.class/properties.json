@@ -1,14 +1,11 @@
 {
-	"category" : "Aconcagua-Tests-ArithmeticModel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "UndefinedArithmeticObjectValueExceptionTest",
-	"pools" : [
-		 ],
 	"super" : "TestCase",
-	"type" : "normal" }
+	"category" : "Aconcagua-Tests-ArithmeticModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "UndefinedArithmeticObjectValueExceptionTest",
+	"type" : "normal"
+}

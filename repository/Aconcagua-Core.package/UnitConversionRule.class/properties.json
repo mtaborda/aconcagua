@@ -1,16 +1,15 @@
 {
-	"category" : "Aconcagua-Core-MeasureModel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "UnitConversionRuleInterface",
+	"category" : "Aconcagua-Core-MeasureModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"sourceUnit",
 		"targetUnit",
-		"function" ],
+		"function"
+	],
 	"name" : "UnitConversionRule",
-	"pools" : [
-		 ],
-	"super" : "UnitConversionRuleInterface",
-	"type" : "normal" }
+	"type" : "normal"
+}

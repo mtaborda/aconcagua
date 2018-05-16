@@ -1,14 +1,13 @@
 {
-	"category" : "Aconcagua-Core-MeasureModel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"factors" ],
-	"name" : "MultipliedUnit",
-	"pools" : [
-		 ],
 	"super" : "CompoundUnit",
-	"type" : "normal" }
+	"category" : "Aconcagua-Core-MeasureModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"factors"
+	],
+	"name" : "MultipliedUnit",
+	"type" : "normal"
+}

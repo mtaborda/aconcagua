@@ -1,14 +1,13 @@
 {
+	"commentStamp" : "",
+	"super" : "IntervalStrategy",
 	"category" : "Aconcagua-Core-ArithmeticModel",
 	"classinstvars" : [
-		"uniqueInstance" ],
-	"classvars" : [
-		 ],
-	"commentStamp" : "",
-	"instvars" : [
-		 ],
+		"uniqueInstance"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
 	"name" : "ArithmeticObjectIntervalStrategy",
-	"pools" : [
-		 ],
-	"super" : "IntervalStrategy",
-	"type" : "normal" }
+	"type" : "normal"
+}

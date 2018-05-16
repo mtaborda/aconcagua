@@ -1,15 +1,14 @@
 {
-	"category" : "Aconcagua-Core-MeasureModel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "Evaluation",
+	"category" : "Aconcagua-Core-MeasureModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"cachedValue",
-		"evaluation" ],
+		"evaluation"
+	],
 	"name" : "CachedEvaluation",
-	"pools" : [
-		 ],
-	"super" : "Evaluation",
-	"type" : "normal" }
+	"type" : "normal"
+}

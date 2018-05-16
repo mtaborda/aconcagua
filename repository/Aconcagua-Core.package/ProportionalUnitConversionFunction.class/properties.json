@@ -1,16 +1,15 @@
 {
-	"category" : "Aconcagua-Core-MeasureModel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "UnitConversionFunctionInterface",
+	"category" : "Aconcagua-Core-MeasureModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"sourceMeasure",
 		"equivalentMeasure",
-		"proportionalMeasure" ],
+		"proportionalMeasure"
+	],
 	"name" : "ProportionalUnitConversionFunction",
-	"pools" : [
-		 ],
-	"super" : "UnitConversionFunctionInterface",
-	"type" : "normal" }
+	"type" : "normal"
+}

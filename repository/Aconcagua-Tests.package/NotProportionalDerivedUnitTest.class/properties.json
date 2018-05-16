@@ -1,14 +1,13 @@
 {
-	"category" : "Aconcagua-Tests-MeasureModel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"kelvin" ],
-	"name" : "NotProportionalDerivedUnitTest",
-	"pools" : [
-		 ],
 	"super" : "TestCase",
-	"type" : "normal" }
+	"category" : "Aconcagua-Tests-MeasureModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"kelvin"
+	],
+	"name" : "NotProportionalDerivedUnitTest",
+	"type" : "normal"
+}

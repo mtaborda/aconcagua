@@ -1,17 +1,16 @@
 {
-	"category" : "Aconcagua-Tests-MeasureModel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Aconcagua-Tests-MeasureModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"peso",
 		"dollar",
 		"onePeso",
-		"tenDollars" ],
+		"tenDollars"
+	],
 	"name" : "ProportionalUnitConversionFunctionTest",
-	"pools" : [
-		 ],
-	"super" : "TestCase",
-	"type" : "normal" }
+	"type" : "normal"
+}

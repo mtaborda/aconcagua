@@ -1,15 +1,14 @@
 {
-	"category" : "Aconcagua-Core-ArithmeticModel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "InvalidOperationException",
+	"category" : "Aconcagua-Core-ArithmeticModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"operationName",
-		"operand" ],
+		"operand"
+	],
 	"name" : "InvalidUnaryOperationException",
-	"pools" : [
-		 ],
-	"super" : "InvalidOperationException",
-	"type" : "normal" }
+	"type" : "normal"
+}

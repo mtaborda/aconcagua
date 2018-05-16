@@ -1,18 +1,17 @@
 {
-	"category" : "Aconcagua-Core-MeasureModel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "DerivedUnit",
+	"category" : "Aconcagua-Core-MeasureModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"nameForOne",
 		"nameForMany",
 		"sign",
 		"baseUnit",
-		"conversionFactor" ],
+		"conversionFactor"
+	],
 	"name" : "ProportionalDerivedUnit",
-	"pools" : [
-		 ],
-	"super" : "DerivedUnit",
-	"type" : "normal" }
+	"type" : "normal"
+}

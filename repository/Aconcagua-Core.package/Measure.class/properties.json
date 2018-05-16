@@ -1,15 +1,14 @@
 {
-	"category" : "Aconcagua-Core-MeasureModel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "MeasureBehavior",
+	"category" : "Aconcagua-Core-MeasureModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"amount",
-		"unit" ],
+		"unit"
+	],
 	"name" : "Measure",
-	"pools" : [
-		 ],
-	"super" : "MeasureBehavior",
-	"type" : "normal" }
+	"type" : "normal"
+}

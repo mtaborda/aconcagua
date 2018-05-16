@@ -1,15 +1,14 @@
 {
-	"category" : "Aconcagua-Core-ArithmeticModel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "Error",
+	"category" : "Aconcagua-Core-ArithmeticModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"index",
-		"collection" ],
+		"collection"
+	],
 	"name" : "IndexOutOfRangeException",
-	"pools" : [
-		 ],
-	"super" : "Error",
-	"type" : "normal" }
+	"type" : "normal"
+}

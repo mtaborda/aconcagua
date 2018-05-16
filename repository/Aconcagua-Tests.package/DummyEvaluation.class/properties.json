@@ -1,14 +1,13 @@
 {
-	"category" : "Aconcagua-Tests-MeasureModel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"measure" ],
-	"name" : "DummyEvaluation",
-	"pools" : [
-		 ],
 	"super" : "Evaluation",
-	"type" : "normal" }
+	"category" : "Aconcagua-Tests-MeasureModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"measure"
+	],
+	"name" : "DummyEvaluation",
+	"type" : "normal"
+}

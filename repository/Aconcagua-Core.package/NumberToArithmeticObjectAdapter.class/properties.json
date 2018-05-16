@@ -1,14 +1,13 @@
 {
-	"category" : "Aconcagua-Core-ArithmeticModel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"number" ],
-	"name" : "NumberToArithmeticObjectAdapter",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "Aconcagua-Core-ArithmeticModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"number"
+	],
+	"name" : "NumberToArithmeticObjectAdapter",
+	"type" : "normal"
+}

@@ -1,9 +1,0 @@
-{
-	"class" : {
-		"initialize" : "",
-		"initializeUniqueInstance" : "",
-		"new" : "" },
-	"instance" : {
-		"advanceFrom:by:" : "",
-		"advanceFrom:steps:by:" : "",
-		"stepsFrom:to:by:" : "" } }

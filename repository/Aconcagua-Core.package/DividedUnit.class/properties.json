@@ -1,15 +1,14 @@
 {
-	"category" : "Aconcagua-Core-MeasureModel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "CompoundUnit",
+	"category" : "Aconcagua-Core-MeasureModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"numerator",
-		"denominator" ],
+		"denominator"
+	],
 	"name" : "DividedUnit",
-	"pools" : [
-		 ],
-	"super" : "CompoundUnit",
-	"type" : "normal" }
+	"type" : "normal"
+}

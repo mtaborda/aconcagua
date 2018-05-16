@@ -1,14 +1,13 @@
 {
-	"category" : "Aconcagua-Tests-ArithmeticModel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"number" ],
-	"name" : "TestIntervalAwareMagnitude",
-	"pools" : [
-		 ],
 	"super" : "IntervalAwareMagnitude",
-	"type" : "normal" }
+	"category" : "Aconcagua-Tests-ArithmeticModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"number"
+	],
+	"name" : "TestIntervalAwareMagnitude",
+	"type" : "normal"
+}

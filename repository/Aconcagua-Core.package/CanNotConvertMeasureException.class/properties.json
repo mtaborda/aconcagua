@@ -1,15 +1,14 @@
 {
-	"category" : "Aconcagua-Core-MeasureModel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "InvalidOperationException",
+	"category" : "Aconcagua-Core-MeasureModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"targetUnit",
-		"sourceMeasure" ],
+		"sourceMeasure"
+	],
 	"name" : "CanNotConvertMeasureException",
-	"pools" : [
-		 ],
-	"super" : "InvalidOperationException",
-	"type" : "normal" }
+	"type" : "normal"
+}
