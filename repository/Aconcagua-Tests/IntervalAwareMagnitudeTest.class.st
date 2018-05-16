@@ -1,7 +1,7 @@
 Class {
 	#name : #IntervalAwareMagnitudeTest,
 	#superclass : #TestCase,
-	#category : 'Aconcagua-Tests-ArithmeticModel'
+	#category : #'Aconcagua-Tests-ArithmeticModel'
 }
 
 { #category : #test }

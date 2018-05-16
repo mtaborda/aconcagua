@@ -5,7 +5,7 @@ Class {
 		'units',
 		'moneyConverter'
 	],
-	#category : 'Aconcagua-Tests-MeasureModel'
+	#category : #'Aconcagua-Tests-MeasureModel'
 }
 
 { #category : #resources }

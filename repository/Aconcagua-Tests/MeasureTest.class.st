@@ -4,7 +4,7 @@ Class {
 	#instVars : [
 		'units'
 	],
-	#category : 'Aconcagua-Tests-MeasureModel'
+	#category : #'Aconcagua-Tests-MeasureModel'
 }
 
 { #category : #resources }

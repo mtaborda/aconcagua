@@ -6,7 +6,7 @@ Class {
 		'second',
 		'meterBySecond'
 	],
-	#category : 'Aconcagua-Tests-MeasureModel'
+	#category : #'Aconcagua-Tests-MeasureModel'
 }
 
 { #category : #initialization }

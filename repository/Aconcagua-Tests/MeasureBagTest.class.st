@@ -4,19 +4,13 @@ Class {
 	#instVars : [
 		'units'
 	],
-	#category : 'Aconcagua-Tests-MeasureModel'
+	#category : #'Aconcagua-Tests-MeasureModel'
 }
 
 { #category : #resources }
 MeasureBagTest class >> resources [
 
 	^Array with: UnitsTestResource
-]
-
-{ #category : #'mock undefined arithmetic object' }
-MeasureBagTest >> addMeasureBag: aMeasureBag [
-
-	^aMeasureBag addMeasure: self
 ]
 
 { #category : #'accessing temperature units' }
@@ -37,22 +31,10 @@ MeasureBagTest >> centimeter [
 	^units centimeter
 ]
 
-{ #category : #'mock undefined arithmetic object' }
-MeasureBagTest >> convertToBaseUnit [
-
-	^self
-]
-
 { #category : #'bag creation' }
 MeasureBagTest >> createBagWith: aMeasure [ 
 	
 	^aMeasure createBagWithMeasure: self
-]
-
-{ #category : #'mock undefined arithmetic object' }
-MeasureBagTest >> createBagWithMeasure: aMeasure [
-
-	^MeasureBag with: self with: aMeasure
 ]
 
 { #category : #'accessing monetary units' }
@@ -77,12 +59,6 @@ MeasureBagTest >> euroCent [
 MeasureBagTest >> fahrenheit [
 
 	^units fahrenheit
-]
-
-{ #category : #'accessing monetary measurements' }
-MeasureBagTest >> fiveDollars [
-
-	^Measure amount: 5 unit: self dollar
 ]
 
 { #category : #'accessing monetary measurements' }
@@ -185,12 +161,6 @@ MeasureBagTest >> peso [
 MeasureBagTest >> quarter [
 	
 	^units quarter
-]
-
-{ #category : #'mock undefined arithmetic object' }
-MeasureBagTest >> sameDomainAs: aMeasure [ 
-	
-	^false
 ]
 
 { #category : #initialization }
@@ -1098,12 +1068,6 @@ MeasureBagTest >> twentyPesos [
 MeasureBagTest >> twoDollars [
 
 	^Measure amount: 2 unit: self dollar
-]
-
-{ #category : #'mock undefined arithmetic object' }
-MeasureBagTest >> unit [
-	
-	^BaseUnit named: 'Mock Unit'
 ]
 
 { #category : #'accessing temperature measurements' }

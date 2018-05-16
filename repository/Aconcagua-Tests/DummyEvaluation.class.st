@@ -4,7 +4,7 @@ Class {
 	#instVars : [
 		'measure'
 	],
-	#category : 'Aconcagua-Tests-MeasureModel'
+	#category : #'Aconcagua-Tests-MeasureModel'
 }
 
 { #category : #'instance creation' }

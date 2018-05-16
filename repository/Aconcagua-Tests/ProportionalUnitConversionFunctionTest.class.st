@@ -7,7 +7,7 @@ Class {
 		'onePeso',
 		'tenDollars'
 	],
-	#category : 'Aconcagua-Tests-MeasureModel'
+	#category : #'Aconcagua-Tests-MeasureModel'
 }
 
 { #category : #initialization }

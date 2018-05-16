@@ -5,7 +5,7 @@ Class {
 		'stream',
 		'streamStaringInThirdElement'
 	],
-	#category : 'Aconcagua-Tests-MeasureModel'
+	#category : #'Aconcagua-Tests-MeasureModel'
 }
 
 { #category : #initialization }

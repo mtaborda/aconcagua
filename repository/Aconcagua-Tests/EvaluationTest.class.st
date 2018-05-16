@@ -8,7 +8,7 @@ Class {
 		'peso',
 		'dollar'
 	],
-	#category : 'Aconcagua-Tests-MeasureModel'
+	#category : #'Aconcagua-Tests-MeasureModel'
 }
 
 { #category : #'test support' }

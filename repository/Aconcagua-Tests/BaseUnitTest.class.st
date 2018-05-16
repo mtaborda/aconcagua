@@ -1,7 +1,7 @@
 Class {
 	#name : #BaseUnitTest,
 	#superclass : #TestCase,
-	#category : 'Aconcagua-Tests-MeasureModel'
+	#category : #'Aconcagua-Tests-MeasureModel'
 }
 
 { #category : #'test accessing' }

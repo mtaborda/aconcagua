@@ -5,7 +5,7 @@ Class {
 		'peso',
 		'centavo'
 	],
-	#category : 'Aconcagua-Tests-MeasureModel'
+	#category : #'Aconcagua-Tests-MeasureModel'
 }
 
 { #category : #initialization }

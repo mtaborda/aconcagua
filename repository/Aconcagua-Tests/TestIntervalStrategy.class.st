@@ -1,7 +1,7 @@
 Class {
 	#name : #TestIntervalStrategy,
 	#superclass : #IntervalStrategy,
-	#category : 'Aconcagua-Tests-ArithmeticModel'
+	#category : #'Aconcagua-Tests-ArithmeticModel'
 }
 
 { #category : #enumerating }

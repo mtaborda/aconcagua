@@ -1,7 +1,7 @@
 Class {
 	#name : #ArithmeticObjectIntervalTest,
 	#superclass : #TestCase,
-	#category : 'Aconcagua-Tests-ArithmeticModel'
+	#category : #'Aconcagua-Tests-ArithmeticModel'
 }
 
 { #category : #'test accessing' }

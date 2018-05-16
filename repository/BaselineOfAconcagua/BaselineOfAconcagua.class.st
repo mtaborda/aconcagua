@@ -49,7 +49,7 @@ BaselineOfAconcagua >> initializeRepositories [
 	repositories at: #pharo40 put: #'github://mtaborda/aconcagua:v4.1.0/repository'.
 	repositories at: #pharo50 put: #'github://mtaborda/aconcagua:v5.0.0/repository'.
 	repositories at: #pharo60 put: #'github://ba-st/Aconcagua:v6.0.0/repository'.
-	repositories at: #pharo61 put: #'github://ba-st/Aconcagua:remove-mole-from-package/repository'
+	repositories at: #pharo61 put: #'github://ba-st/Aconcagua:development/repository'
 
 ]
 

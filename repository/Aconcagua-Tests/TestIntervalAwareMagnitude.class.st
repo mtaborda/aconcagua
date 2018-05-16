@@ -4,7 +4,7 @@ Class {
 	#instVars : [
 		'number'
 	],
-	#category : 'Aconcagua-Tests-ArithmeticModel'
+	#category : #'Aconcagua-Tests-ArithmeticModel'
 }
 
 { #category : #'instance creation' }

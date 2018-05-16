@@ -1,7 +1,7 @@
 Class {
 	#name : #UnitConversionRuleTest,
 	#superclass : #TestCase,
-	#category : 'Aconcagua-Tests-MeasureModel'
+	#category : #'Aconcagua-Tests-MeasureModel'
 }
 
 { #category : #testing }

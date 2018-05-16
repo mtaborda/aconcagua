@@ -4,7 +4,7 @@ Class {
 	#instVars : [
 		'nullUnit'
 	],
-	#category : 'Aconcagua-Tests-MeasureModel'
+	#category : #'Aconcagua-Tests-MeasureModel'
 }
 
 { #category : #initialization }
