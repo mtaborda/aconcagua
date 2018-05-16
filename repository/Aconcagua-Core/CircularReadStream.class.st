@@ -4,11 +4,9 @@ Class {
 	#instVars : [
 		'collection',
 		'position',
-		'unit',
-		'firstIndex',
-		'lastIndex'
+		'unit'
 	],
-	#category : 'Aconcagua-Core-MeasureModel'
+	#category : #'Aconcagua-Core-MeasureModel'
 }
 
 { #category : #'instance creation' }
