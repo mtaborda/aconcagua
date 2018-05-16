@@ -3,6 +3,7 @@ SmalltalkCISpec {
     SCIMetacelloLoadSpec {
       #baseline : 'Aconcagua',
       #directory : 'repository',
+      #load : [ 'Development' ],
       #platforms : [  #pharo ]
     }
   ],
