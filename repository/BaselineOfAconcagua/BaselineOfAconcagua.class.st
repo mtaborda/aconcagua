@@ -30,10 +30,9 @@ BaselineOfAconcagua >> baseline: spec [
 				group: 'default' with: #('Deployment') ].
 
 	spec for: #'pharo4.x' do: [ spec repository: (repositories at: #pharo40) ].
-
 	spec for: #'pharo5.x' do: [ spec repository: (repositories at: #pharo50) ].
-
-	spec for: #'pharo6.x' do: [ spec repository: (repositories at: #pharo60) ]
+	spec for: #'pharo6.x' do: [ spec repository: (repositories at: #pharo60) ].
+	spec for: #'pharo6.1' do: [ spec repository: (repositories at: #pharo61) ].
 ]
 
 { #category : #'initialize - release' }
@@ -49,7 +48,8 @@ BaselineOfAconcagua >> initializeRepositories [
 	repositories := Dictionary new.
 	repositories at: #pharo40 put: #'github://mtaborda/aconcagua:v4.1.0/repository'.
 	repositories at: #pharo50 put: #'github://mtaborda/aconcagua:v5.0.0/repository'.
-	repositories at: #pharo60 put: #'github://ba-st/Aconcagua:v6.0.0/repository'
+	repositories at: #pharo60 put: #'github://ba-st/Aconcagua:v6.0.0/repository'.
+	repositories at: #pharo61 put: #'github://ba-st/Aconcagua:remove-mole-from-package/repository'
 
 ]
 
