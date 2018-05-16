@@ -1,8 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"testCreateWithCyclicGraph" : "",
-		"testValue" : "mx 3/26/2007 21:56",
-		"testValueWithAnotherGraph" : "",
-		"testWithGraphWithoutEdges" : "" } }

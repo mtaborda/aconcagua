@@ -1,4 +1,0 @@
-accessing
-factors
-	
-	^factors copy

@@ -1,4 +1,0 @@
-accessing
-hash
-
-	self subclassResponsibility

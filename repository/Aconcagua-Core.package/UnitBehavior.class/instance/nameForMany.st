@@ -1,4 +1,0 @@
-accessing
-nameForMany
-
-	self subclassResponsibility

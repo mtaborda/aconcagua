@@ -1,4 +1,0 @@
-accessing
-nameForOne
-
-	^self name

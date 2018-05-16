@@ -1,4 +1,0 @@
-arithmetic operations
-negated
-
-	^MinusInfinity

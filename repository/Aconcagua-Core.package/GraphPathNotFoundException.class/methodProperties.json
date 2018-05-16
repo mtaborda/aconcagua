@@ -1,9 +1,0 @@
-{
-	"class" : {
-		"signalWithSource:target:" : "",
-		"source:target:" : "" },
-	"instance" : {
-		"description" : "",
-		"initializeWithSource:target:" : "",
-		"source" : "",
-		"target" : "" } }
