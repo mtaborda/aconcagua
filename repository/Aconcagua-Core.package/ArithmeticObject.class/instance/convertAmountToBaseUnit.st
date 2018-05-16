@@ -1,4 +1,0 @@
-converting
-convertAmountToBaseUnit
-
-	self subclassResponsibility

@@ -1,4 +1,0 @@
-testing
-testDivide
-
-	self assertAllTestShouldPassFor: #/

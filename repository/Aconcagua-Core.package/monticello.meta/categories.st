@@ -1,3 +1,0 @@
-SystemOrganization addCategory: #'Aconcagua-Core'!
-SystemOrganization addCategory: 'Aconcagua-Core-ArithmeticModel'!
-SystemOrganization addCategory: 'Aconcagua-Core-MeasureModel'!

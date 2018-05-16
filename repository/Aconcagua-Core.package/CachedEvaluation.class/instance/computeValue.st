@@ -1,4 +1,0 @@
-evaluating
-computeValue
-
-	^evaluation value
